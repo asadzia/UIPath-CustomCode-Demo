@@ -1,0 +1,5 @@
+c:\users\asad.zia\documents\visual studio 2015\Projects\TestActivities\TestActivities\bin\Debug\TestActivities.dll
+c:\users\asad.zia\documents\visual studio 2015\Projects\TestActivities\TestActivities\bin\Debug\TestActivities.pdb
+c:\users\asad.zia\documents\visual studio 2015\Projects\TestActivities\TestActivities\obj\Debug\TestActivities.csprojResolveAssemblyReference.cache
+c:\users\asad.zia\documents\visual studio 2015\Projects\TestActivities\TestActivities\obj\Debug\TestActivities.dll
+c:\users\asad.zia\documents\visual studio 2015\Projects\TestActivities\TestActivities\obj\Debug\TestActivities.pdb
